@@ -1,37 +1,35 @@
-# Nebuliton App Lite
+# 🌐 Nebuliton App Lite – Inhaltsseiten
 
-**NebulitonLite** ist das GitHub Pages Repository für die WebView-basierte Version der Nebuliton App.  
-Diese App ermöglicht Nutzern den einfachen Zugriff auf Serververwaltung, Statusinformationen und Uptime-Dienste über eine minimalistische Benutzeroberfläche – optimiert für **Android, Windows und Linux**.
+Dies ist das Repository für die begleitenden HTML-Seiten der **Nebuliton App Lite** – z. B. die Datenschutzseite (`legal.html`) und die Info-/About-Seite (`about.html`).
 
----
-
-## 🌟 Funktionen
-
-- Überblick über Serverstatus und Ressourcenverbrauch
-- Starten, Stoppen und Verwalten von gemieteten Nebuliton-Servern
-- Einsicht in die Uptime unserer Services (über UptimeRobot API)
-- Kompatibel mit WebView-Containern für Android, Electron, u.v.m.
+⚠️ **Hinweis:**  
+Dieses Repository enthält **nicht** die App selbst, sondern **nur die Webinhalte**, die in der App über WebView angezeigt werden.
 
 ---
 
-## 🌐 Links
+## 📄 Enthaltene Seiten
 
-- 🛰️ **Website**: [https://nebuliton.de](https://nebuliton.de)  
-- 💬 **Discord**: [https://discord.gg/q7z5wY9a](https://discord.gg/q7z5wY9a)
+- `about.html` – Vorstellung und Funktionen der App
+- `legal.html` – Datenschutzerklärung und rechtliche Hinweise
 
----
-
-## 📦 Deployment
-
-Diese Seiten werden automatisch über **GitHub Pages** veröffentlicht.  
-Die Startseite (`index.html`) und die Info-Seite (`about.html`) sind direkt in diesem Repo enthalten und auf WebView-Nutzung optimiert.
+Die Seiten sind für die Anzeige in der App optimiert (responsive, leichtgewichtig, ohne Tracking).
 
 ---
 
-## ℹ️ Hinweis
+## 📥 Zur App
 
-Dies ist die **Lite-Version** der Nebuliton App. Eine native App für iOS/macOS ist separat im App Store verfügbar und bietet zusätzliche Features wie Widgets, biometrischen Zugriffsschutz und mehr.
+👉 Die App selbst findest du im Repository  
+🔗 [`nebulitonapp-lite`](https://github.com/Talonachris/nebulitonapp-lite)
+
+Dort gibt es die Windows-Installationsdatei und das Linux-AppImage zum Herunterladen.
 
 ---
 
-© 2025 Nebuliton – Made with ❤️ by Talonachris
+## 🤝 Mitmachen
+
+Fehler entdeckt oder Feedback zu den Seiten?  
+→ [Issue eröffnen](https://github.com/Talonachris/nebulitonapp-lite-sites/issues) oder Pull Request erstellen!
+
+---
+
+© 2025 [Nebuliton.de](https://nebuliton.de)
