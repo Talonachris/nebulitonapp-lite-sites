@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Impressum</title>
+</head>
+<body style="font-family: sans-serif; max-width: 700px; margin: 40px auto;">
+  <h1>Impressum</h1>
+  <p><strong>Verantwortlich gemäß § 5 TMG:</strong></p>
+  <p>
+    Nebuliton<br>
+    Christian Hagenacker<br>
+    Rutkamp 4<br>
+    24111 Kiel<br>
+    Deutschland<br><br>
+    E-Mail: chris@nebuliton.io
+  </p>
+</body>
+</html>
